@@ -16,3 +16,5 @@ ma.AddRecipientCC("email@emailtwo.org")
 ma.AddAttachment(filename)
 ma.SendMailPopup("this is a subject", "this is the body")
 ```
+
+If this will help you in any way, feel free to clone or fork this repository.
