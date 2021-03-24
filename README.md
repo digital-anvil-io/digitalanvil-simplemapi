@@ -1,6 +1,6 @@
 # Simple Mapi Client
 
-This projects aim is to allow you to send emails with attachments via the default email client on windows from WinForms projects. This currently relys upon windows MAPI32.dll, which is not recommended by Microsoft,
+This project's aim is to allow you to send emails with attachments via the default email client on windows from WinForms projects. This currently relys upon windows MAPI32.dll, which is not recommended by Microsoft,
 but there is currently no other way to do this from .NET.
 
 This was not written by us here at Digital Anvil but was only dropped into a stand alone project so we could use it where we needed. We did have to 
